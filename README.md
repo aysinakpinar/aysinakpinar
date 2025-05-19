@@ -81,6 +81,8 @@ hobbies:
     "Reading (1984, Brave New World)",
     "LOTR fan (books & movies)"
   ]
+```
+
 ### 🤔 Let’s Connect!
 
 Have questions or suggestions on what I should learn next?  
