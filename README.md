@@ -10,18 +10,15 @@ Before transitioning into tech, I worked in molecular biology and AI-driven biol
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
-  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=fff" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff" />
   <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=fff" />
   <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=fff" />
   <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff" />
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vitest-00B4AB?logo=vitest&logoColor=white" />
 </p>
 
 ---
