@@ -27,7 +27,7 @@ Before transitioning into tech, I worked in molecular biology and AI-driven biol
 
 | Name                         | Description                                                                                                    | Timeframe    | Tech/tools                  |
 | ---------------------------- | -------------------------------------------------------------------------------------------------------------- | ------------ | --------------------------- |
-| [Acebook](https://github.com/zameermohamed/acebook-mern-vite)  | Social media app with account creation, posting, liking & commenting. MERN stack, secure auth, testing, CI/CD. | Team Project | MongoDB, Express.js, React, Node.js, Vitest, Supertest |
+| [Acebook](https://github.com/aysinakpinar/Acebook_MERN_team_project)  | Social media app with account creation, posting, liking & commenting. MERN stack, secure auth, testing, CI/CD. | Team Project | MongoDB, Express.js, React, Node.js, Vitest, Supertest |
 | [Galaxy Gym Workout Planner & Workout Friend Finder](https://github.com/aysinakpinar/team_project_galaxy) | Fitness tracker & social app with workout analytics, friend finder, chat (incl. AI chatbot), forum, gym search. | Team Project | Python, Flask, PostgreSQL, SQLAlchemy, HTML, CSS |
 | [MakersBnB](https://github.com/aysinakpinar/MakersBnB_python_project) | Property listing & booking platform with secure auth and role-based access control. | Solo Project | C#, ASP.NET, HTML, CSS, Playwright (E2E testing) |
 | [Spacebook](https://github.com/aysinakpinar/Spacebook_csharp) | Social media platform with posts, likes, comments, friendships. Backend in C# ASP.NET with PostgreSQL DB. | Team Project | C#, ASP.NET, PostgreSQL, ChromeDriver |
